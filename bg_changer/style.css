@@ -1,0 +1,26 @@
+*{
+ padding: 0%;
+ margin: 0%;
+ box-sizing: border-box;
+}
+body{
+ width: 100%;
+ height: 100vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: black;
+}
+
+
+
+ button{
+  color: white;
+cursor: pointer;
+border: none;
+border:  2px solid rgb(255, 255, 255);
+background-color:transparent;
+ padding: 15px 60px;
+ border-radius: 50px;
+ font-size: 20px;
+}
