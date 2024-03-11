@@ -9,4 +9,3 @@ let changecolor = () => {
   document.body.style.backgroundColor = changecolors;
 };
 btn.addEventListener("click", changecolor);
-window.addEventListener("load".changecolor);
